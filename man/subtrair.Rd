@@ -6,6 +6,11 @@
 \usage{
 subtrair(a, b)
 }
+\arguments{
+\item{a}{A number.}
+
+\item{b}{It is another number}
+}
 \description{
 This function is good to subtract
 }
